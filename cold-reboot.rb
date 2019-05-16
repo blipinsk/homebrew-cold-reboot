@@ -1,4 +1,4 @@
-class 'cold-reboot' < Formula
+class ColdReboot < Formula
   desc "Rebooting Android Emulators with Cold Boot"
   homepage "https://github/com/blipinsk/cold-reboot"
   url "https://github.com/blipinsk/cold-reboot/blob/8c7c24760ef0b9c07c08b49490862cd8ff947138/cold-reboot-1.0.0.tar.gz?raw=true" # press Y to get permalink
